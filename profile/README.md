@@ -1,8 +1,8 @@
-# OmniForged
+# OmniForge
 
 **Forging intelligent systems that think ahead.**
 
-OmniForged is an open-source organization focused on building **AI-first tools** that remove friction between humans and systems. We design software that is proactive, autonomous, and opinionated — tools that *act before you ask*.
+OmniForge is an open-source organization focused on building **AI-first tools** that remove friction between humans and systems. We design software that is proactive, autonomous, and opinionated — tools that *act before you ask*.
 
 Our work lives at the intersection of:
 - Artificial Intelligence & Automation
@@ -23,7 +23,7 @@ Brody unifies calendars, tasks, and communication to generate **context, summari
 
 🔗 Repository: https://github.com/OmniForged/Brody
 
-Brody represents OmniForged’s core belief:  
+Brody represents OmniForge’s core belief:  
 software should anticipate intent, not wait for commands.
 
 ---
@@ -39,7 +39,7 @@ We aim to **remove it**.
 Most automation is brittle.  
 We design for **adaptability and iteration**.
 
-OmniForged projects are:
+OmniForge projects are:
 - Open by default
 - Modular by design
 - Built for contributors, not gatekeepers
@@ -48,7 +48,7 @@ OmniForged projects are:
 
 ## 🤝 Open Source & Contributions
 
-OmniForged is open-source because leverage comes from **communities, not silos**.
+OmniForge is open-source because leverage comes from **communities, not silos**.
 
 You can contribute by:
 - Picking up issues labeled `good first issue`
@@ -62,7 +62,7 @@ If you think deeply about systems, tradeoffs, and scale — you’ll fit right i
 
 ## 🗺️ Road Ahead
 
-OmniForged is a long-term playground for:
+OmniForge is a long-term playground for:
 - Autonomous agents
 - AI-driven orchestration tools
 - Developer-centric automation
